@@ -1,5 +1,8 @@
 
-
+renv
+renv.lock
+.Rhistory
+.Rprofile
 .DS_Store
 
 *.csv
