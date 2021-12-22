@@ -6,3 +6,5 @@ renv.lock
 .DS_Store
 
 *.csv
+
+.ipynb_checkpoints/
