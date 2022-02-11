@@ -4,6 +4,7 @@ renv.lock
 .Rhistory
 .Rprofile
 .DS_Store
+.env
 
 *.csv
 
