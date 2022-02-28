@@ -7,5 +7,7 @@ renv.lock
 .env
 
 *.csv
+*.RData
+*.mat
 
 .ipynb_checkpoints/
