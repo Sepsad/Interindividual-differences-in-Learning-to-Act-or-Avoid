@@ -10,4 +10,6 @@ renv.lock
 *.RData
 *.mat
 
+*.png
+
 .ipynb_checkpoints/
